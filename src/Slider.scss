@@ -1,0 +1,12 @@
+.slider {
+  overflow: visible;
+  height: 6px;
+  div:first-child {
+    background-color: gray;
+    position: relative;
+    height: 6px;
+    top: 0;
+    width: 100%;
+    border-radius: 4px;
+  }
+}
